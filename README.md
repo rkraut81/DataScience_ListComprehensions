@@ -1,0 +1,2 @@
+# DataScience_Session3_Assignment-3.2
+DataScience_Session3_Assignment 3.2_List comprehensions
